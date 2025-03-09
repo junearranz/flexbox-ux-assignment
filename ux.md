@@ -1,5 +1,7 @@
 **Task One**: Referencing this image, create a low-fidelity wireframe.
 
+![Captura del proyecto](images/Captura%20de%20pantalla%202025-03-07%20133233.png)
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/dDYpsMTAGUQcNGRW0Jo8O3/Figma-basics?node-id=1669-162202&embed-host=share" allowfullscreen></iframe>
 
 
