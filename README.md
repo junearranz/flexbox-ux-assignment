@@ -1,4 +1,4 @@
-# Proyecto de Flexbox y UI/UX 
+# Flexbox y UI/UX 
 
 Este repositorio contiene los archivos para dos asignaciones del módulo 1: 
 ## Contenido: 
