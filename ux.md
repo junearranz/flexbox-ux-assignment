@@ -2,8 +2,7 @@
 
 ![Captura del proyecto](images/Captura%20de%20pantalla%202025-03-07%20133233.png)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/dDYpsMTAGUQcNGRW0Jo8O3/Figma-basics?node-id=1669-162202&embed-host=share" allowfullscreen></iframe>
-
+![Low-fidelity wireframe](images/Captura%20de%20pantalla%202025-03-09%20180300.png)
 
 **Task Two:** Use one of the following websites and the inspect tool to identify 2-3 colors used repeatedly as part of the site’s color scheme. Remember that different shades of gray and black can be included as a color.
 
